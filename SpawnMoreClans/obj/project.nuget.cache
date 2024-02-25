@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YSZ/LZfFEdRpvIkq4dj+3CkzKwC3qNGMEyF8Wz8pCUIH89T/2RoYSgZDF9b2Wykr1+IrFH2/Lw0M/jkQR+x7KQ==",
+  "dgSpecHash": "FGEuYRSP/yCZRsjwlYNVV3s2zp7XEJ0nYejhkMcSdjMbjW0e1iiA4zdxtEEp69VK6f6aUHxlMuAd9uOmfvW6eg==",
   "success": true,
-  "projectFilePath": "C:\\SpawnMoreClans\\SpawnMoreClans\\SpawnMoreClans.csproj",
+  "projectFilePath": "C:\\Users\\Rob\\Desktop\\Web\\git\\SpawnMoreClans\\SpawnMoreClans\\SpawnMoreClans.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Rob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

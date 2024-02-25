@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SpawnMoreClans\\SpawnMoreClans\\SpawnMoreClans.csproj",
+      "projectUniqueName": "C:\\Users\\Rob\\Desktop\\Web\\git\\SpawnMoreClans\\SpawnMoreClans\\SpawnMoreClans.csproj",
       "projectName": "SpawnMoreClans",
-      "projectPath": "C:\\SpawnMoreClans\\SpawnMoreClans\\SpawnMoreClans.csproj",
+      "projectPath": "C:\\Users\\Rob\\Desktop\\Web\\git\\SpawnMoreClans\\SpawnMoreClans\\SpawnMoreClans.csproj",
       "packagesPath": "C:\\Users\\Rob\\.nuget\\packages\\",
-      "outputPath": "C:\\SpawnMoreClans\\SpawnMoreClans\\obj\\",
+      "outputPath": "C:\\Users\\Rob\\Desktop\\Web\\git\\SpawnMoreClans\\SpawnMoreClans\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rob\\AppData\\Roaming\\NuGet\\NuGet.Config"
